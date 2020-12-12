@@ -133,3 +133,6 @@ dmypy.json
 
 # PyCharm
 .idea
+
+#MyStuffCredentials
+data/credentials/credentials.py
